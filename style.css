@@ -1,0 +1,10 @@
+body{
+    background-image: url('background image.jpg');
+}
+canvas{
+    background-color:white ;
+}
+h3{
+    background-color: white;
+    width:35%;
+}
